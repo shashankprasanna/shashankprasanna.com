@@ -4,3 +4,52 @@ Add styles or override variables from the theme here.
 
 */
 
+// $primary: rgb(96, 25, 150);
+// $primary: rgb(255, 255, 255);
+// $secondary: rgb(120, 69, 159);
+
+$black: #000;
+
+$navbar-dark-color: rgba($black, 0.75) ;
+$navbar-dark-hover-color: rgba($black, 0.5) ;
+$navbar-dark-active-color: $black ;
+$navbar-dark-disabled-color: rgba($black, 0.25) ;
+
+////////////////////////////////////////////////
+$display1-weight: 500 !default;
+$display2-weight: 100 !default;
+
+$primary: rgb(255, 255,255)  !default;
+$primary-light: lighten($primary, 75%) !default;
+$secondary: #2D70DE !default;
+$light: rgb(255, 255,255) !default;
+$grey:  #888 !default;
+$orange: $secondary;
+$td-sidebar-tree-root-color: #222 !default;
+
+.nav-shadow {
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.5);
+}
+
+// .navbar-brand {
+//     color: black !important
+// }
+
+// .navbar-bg-onscroll {
+//     box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+//     #agones-top {
+//         display: block !important;
+//     }
+// }
+
+// .control-bar {
+//     display: none;
+// }
+
+// .td-box--secondary p > a:hover {
+//     color: #121314 !important;
+// }
+
+// .showcase img {
+//     margin: 0 30px;
+// }

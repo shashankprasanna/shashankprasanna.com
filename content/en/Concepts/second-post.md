@@ -1,21 +1,16 @@
 ---
-title: "Parameter Reference"
-linkTitle: "Parameter Reference"
-tags: ["reference"]
-date: 2017-01-05
+title: "The second blog post"
+linkTitle: "Second blog post"
+date: 2018-10-06
 description: >
-  A short lead descripton about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  A short lead description about this content page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
 ---
 
-{{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
-{{% /pageinfo %}}
+Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
+There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.
-
-90's four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps **kale chips**.
+There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
 
 > There should be no margin above this first sentence.
 >
@@ -23,18 +18,24 @@ There should be whitespace between paragraphs. Vape migas chillwave sriracha pou
 >
 > There should be no margin below this final sentence.
 
-## First Header 2
+## First Header
 
-This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier **craft beer**. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven't heard of them copper mug, crucifix green juice vape *single-origin coffee* brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!
+This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.
+
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
 On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.
 
-Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&B. **I love this life we live in**.
+Lorem markdownum tuta hospes stabat; idem saxum facit quaterque repetito
+occumbere, oves novem gestit haerebat frena; qui. Respicit recurvam erat:
+pignora hinc reppulit nos **aut**, aptos, ipsa.
 
+Meae optatos *passa est* Epiros utiliter *Talibus niveis*, hoc lata, edidit.
+Dixi ad aestum.
 
-## Second Header 2
+## Header 2
 
 > This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
@@ -43,8 +44,6 @@ Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork b
 ```
 This is a code block following a header.
 ```
-
-Next level leggings before they sold out, PBR&B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan. 
 
 #### Header 4
 
@@ -74,27 +73,27 @@ There's a horizontal rule above and below this.
 
 Here is an unordered list:
 
-* Liverpool F.C.
-* Chelsea F.C.
-* Manchester United F.C.
+* Salt-n-Pepa
+* Bel Biv DeVoe
+* Kid 'N Play
 
 And an ordered list:
 
-1. Michael Brecker
-2. Seamus Blake
-3. Branford Marsalis
+1. Michael Jackson
+2. Michael Bolton
+3. Michael Bublé
 
 And an unordered task list:
 
-- [x] Create a Hugo theme
+- [x] Create a sample markdown document
 - [x] Add task lists to it
 - [ ] Take a vacation
 
 And a "mixed" task list:
 
-- [ ] Pack bags
+- [ ] Steal underpants
 - ?
-- [ ] Travel!
+- [ ] Profit!
 
 And a nested list:
 
@@ -110,7 +109,7 @@ And a nested list:
   * Donatello
   * Raphael
 
-Definition lists can be used with Markdown syntax. Definition headers are bold.
+Definition lists can be used with Markdown syntax. Definition terms are bold.
 
 Name
 : Godzilla
@@ -189,25 +188,57 @@ Inline code inside table cells should still be distinguishable.
 
 Small images should be shown at their actual size.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+![](https://placekitten.com/g/300/200/)
 
 Large images should always scale down and fit in the content container.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
-
-_The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA._
-
+![](https://placekitten.com/g/1200/800/)
 
 ## Components
 
 ### Alerts
 
 {{< alert >}}This is an alert.{{< /alert >}}
-{{< alert title="Note" >}}This is an alert with a title.{{< /alert >}}
-{{% alert title="Note" %}}This is an alert with a title and **Markdown**.{{% /alert %}}
-{{< alert color="success" >}}This is a successful alert.{{< /alert >}}
-{{< alert color="warning" >}}This is a warning.{{< /alert >}}
-{{< alert color="warning" title="Warning" >}}This is a warning with a title.{{< /alert >}}
+{{< alert title="Note:" >}}This is an alert with a title.{{< /alert >}}
+{{< alert type="success" >}}This is a successful alert.{{< /alert >}}
+{{< alert type="warning" >}}This is a warning!{{< /alert >}}
+{{< alert type="warning" title="Warning!" >}}This is a warning with a title!{{< /alert >}}
 
 
-## Another Heading
+## Sizing
+
+Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### Parameters available
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### Using pixels
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### Using rem
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+## Memory
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### RAM to use
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### More is better
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### Used RAM
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+
+
+```
+This is the final element on the page and there should be no margin below this.
+```

@@ -1,10 +1,11 @@
 ---
 title: "Docsy Blog"
-linkTitle: "Blog"
+linkTitle: "Machine learning blog"
 weight: 20
 menu:
   main:
     weight: 10
+toc_root: true
 ---
 
 This is the **blog** section. It has two categories: News and Releases.
