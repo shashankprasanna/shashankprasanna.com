@@ -27,7 +27,7 @@ cascade:
   type: "home"
 ---
 
-<img src="profile_circle.png" alt="" width="200"/>
+<!-- <img src="profile_circle.png" alt="" width="200"/> -->
 
 <br>
 <br>

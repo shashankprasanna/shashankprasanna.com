@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "Machine learning blog"
 linkTitle: "Machine learning blog"
 weight: 20
 menu:
