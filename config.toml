@@ -113,10 +113,12 @@ offlineSearch = true
 [params.ui]
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
+# Foldable
+sidebar_menu_foldable = true
 #  Set to true to disable breadcrumb navigation.
-breadcrumb_disable = false
+breadcrumb_disable = true
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = true
+sidebar_search_disable = false
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = false
 # Set to true to disable the About link in the site footer
@@ -138,13 +140,31 @@ no = 'Sorry to hear that. Please <a href="https://github.com/shashankprasanna/sh
   name ="Twitter"
   url = "https://twitter.com/shshnkp"
   icon = "fab fa-twitter"
-  desc = "Follow us on Twitter to get the latest news!"
+  desc = "Follow me on Twitter to get the latest news!"
+
+[[params.links.user]]
+  name ="LinkedIn"
+  url = "https://www.linkedin.com/in/shashankprasanna/"
+  icon = "fab fa-linkedin"
+  desc = "Connect with me on LinkedIn!"
+
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
   url = "https://github.com/shashankprasanna/"
   icon = "fab fa-github"
   desc = "All code samples live here!"
+[[params.links.developer]]
+  name = "YouTube"
+  url = "https://www.youtube.com/c/ShashankPrasannaML"
+  icon = "fab fa-youtube"
+  desc = "Watch my videos here!"
+[[params.links.developer]]
+  name = "Medium"
+  url = "https://medium.com/@shashankprasanna"
+  icon = "fab fa-medium"
+  desc = "Read my blogs here"
+
 
 [params.taxonomy]
 taxonomyCloud = ["tags"] # set taxonomyCloud = [] to hide taxonomy clouds

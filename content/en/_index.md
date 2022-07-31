@@ -27,17 +27,15 @@ cascade:
   type: "home"
 ---
 
-<img src="profile_circle.png" alt="" width="200"/>
+<!-- <img src="profile_circle.png" alt="" width="200"/> -->
 
-<br>
-<br>
+# Shashank Prasanna
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+Hi! 👋🏽  I'm a multi-disciplinary engineer and technology educator. I'm passionate about statistics, machine learning, numerical optimization, non-linear dynamical systems, high-performance computing and specialized machine learning processors.
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+I have an MS in Electrical Engineering from Arizona State University, where I specialized in Control Theory and Non-linear Dynamics.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+Currently I work as a Developer Advocate at AWS, where I focus on educating developers and data scientists on topic of machine learning algorithms, open-source frameworks, distributed machine learning and machine learning hardware (GPUs, AI accelerators). `If you'd like me to speak at your event, please send me a note using my social media handles on the right 👉🏽` 
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
 
 
