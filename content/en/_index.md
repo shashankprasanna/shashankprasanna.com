@@ -28,6 +28,9 @@ cascade:
 ---
 
 <!-- <img src="profile_circle.png" alt="" width="200"/> -->
+<img src="blog_banner.png" alt="" width="1000"/>
+
+<br>
 
 # Shashank Prasanna
 
