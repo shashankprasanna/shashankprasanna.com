@@ -28,8 +28,11 @@ cascade:
   type: "home"
 ---
 
-{{< imgproc featured_banner.png Fit "1200x200">}}
+
+
+{{< imgproc featured-background.png Fit "1200x200">}}
 {{< /imgproc >}}
+
 
 
 # Shashank Prasanna
