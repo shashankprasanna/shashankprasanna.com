@@ -1,6 +1,6 @@
 ---
-title: "Machine learning blog"
-linkTitle: "Machine learning blog"
+title: "Machine Learning Blog"
+linkTitle: "Machine Learning Blog"
 weight: 20
 menu:
   main:
