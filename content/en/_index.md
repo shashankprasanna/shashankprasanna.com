@@ -43,7 +43,7 @@ I have an MS in Electrical Engineering from Arizona State University, where I sp
 Currently I work as a Developer Advocate at AWS, where I focus on educating developers and data scientists on topics of machine learning algorithms, open-source frameworks, distributed machine learning and machine learning hardware (GPUs, AI accelerators). I've previously worked at MathWorks (makers of MATLAB & Simulink) and NVIDIA in roles ranging from software developer to product management and product marketing. I find most joy in educating and I put a lot of my energy in content creation and story telling.
 
 #### Not Work 🏃🏽
-I'm a recreational runner and a coffee☕️ connoisseur. I collect running shoes and experimenting with coffee beans and brewing apparatus from around the world!
+I'm a recreational runner and a coffee☕️ connoisseur. I love experimenting with coffee beans and brewing apparatus from around the world!
 
  
 
