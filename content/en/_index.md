@@ -13,6 +13,7 @@ cascade:
   type: "blog"
   # set to false to include a blog section in the section nav along with docs
   toc_root: true
+  no_list: false
 - _target:
     path: "/**"
     kind: "page"
@@ -27,8 +28,6 @@ cascade:
   type: "home"
 ---
 
-<!-- <img src="profile_circle.png" alt="" width="200"/> -->
-<!-- <img src="blog_banner.png" alt="" width="1000"/> -->
 {{< imgproc blog_banner.png Fit "1200x200">}}
 {{< /imgproc >}}
 
