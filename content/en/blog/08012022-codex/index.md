@@ -216,5 +216,4 @@ We now have a fully functional and documented code that you can use to submit yo
 If this piqued your interest head on over to [https://openai.com/api/login/](https://openai.com/api/login/) and create your free trial account. I'm making all the code used in this blog post is available as a Jupyter notebook on GitHub so you can run the entire example with a single click
 
 Now it's your turn! How will you use Codex's new edit feature? Let me know by reaching out to me at [@shshnkp](https://twitter.com/shshnkp)
-
-![](featured-screenshot8.png)
+![](screenshot8-featured.png)

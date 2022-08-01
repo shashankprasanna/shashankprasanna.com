@@ -28,7 +28,7 @@ cascade:
   type: "home"
 ---
 
-{{< imgproc blog_banner.png Fit "1200x200">}}
+{{< imgproc featured_banner.png Fit "1200x200">}}
 {{< /imgproc >}}
 
 
