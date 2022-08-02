@@ -9,18 +9,18 @@ menu:
     weight: 1
 
 cascade:
-- _target:
-    path: "/mlblog/**"
-  type: "blog"
-  # set to false to include a blog section in the section nav along with docs
-  toc_root: true
-  no_list: false
-- _target:
-    path: "/runningblog/**"
-  type: "blog"
-  # set to false to include a blog section in the section nav along with docs
-  toc_root: true
-  no_list: false
+# - _target:
+#     path: "/mlblog/**"
+#   type: "blog"
+#   # set to false to include a blog section in the section nav along with docs
+#   toc_root: true
+#   no_list: false
+# - _target:
+#     path: "/runningblog/**"
+#   type: "blog"
+#   # set to false to include a blog section in the section nav along with docs
+#   toc_root: true
+#   no_list: false
 - _target:
     path: "/**"
     kind: "page"
@@ -35,15 +35,11 @@ cascade:
   type: "home"
 ---
 
-
-
 {{< imgproc homepage-banner.png Fit "1200x200">}}
 {{< /imgproc >}}
 
 
-
 # Shashank Prasanna
-
 Hi! 👋🏽  I'm a multi-disciplinary engineer and technology educator. I'm passionate about statistics, machine learning, numerical optimization, non-linear dynamical systems, high-performance computing and specialized machine learning infrastructure and hardware.
 
 #### Education 🎓

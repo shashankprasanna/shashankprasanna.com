@@ -4,6 +4,7 @@ title: "Automatically generate code and documentation using OpenAI CODEX"
 linkTitle: "Automatically generate code and documentation using OpenAI CODEX"
 description: "Use OpenAI CODEX to automatically edit existing code to add documentation, only using only natural language instructions"
 author: Shashank Prasanna
+type: blog
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

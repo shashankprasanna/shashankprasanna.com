@@ -3,7 +3,9 @@ title: "Running blog"
 linkTitle: "Running blog"
 weight: 30
 hide_feedback: true
-type: "blog"
+cascade:
+- type: "blog"
+toc_root: true
 menu:
   main:
     weight: 20
