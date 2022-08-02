@@ -21,30 +21,6 @@ cascade:
   _target:
     path: "/**"
 
-# - _target:
-#     path: "/mlblog/**"
-#   type: "blog"
-#   # set to false to include a blog section in the section nav along with docs
-#   toc_root: true
-#   no_list: false
-# - _target:
-#     path: "/runningblog/**"
-#   type: "blog"
-#   # set to false to include a blog section in the section nav along with docs
-#   toc_root: true
-#   no_list: false
-# - _target:
-#     path: "/**"
-#     kind: "page"
-#   type: "docs"
-# - _target:
-#     path: "/**"
-#     kind: "section"
-#   type: "docs"
-# - _target:
-#     path: "/**"
-#     kind: "section"
-#   type: "home"
 ---
 
 {{< imgproc homepage-banner.png Fit "1200x200">}}
