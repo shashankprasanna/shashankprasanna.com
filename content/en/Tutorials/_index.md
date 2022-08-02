@@ -7,7 +7,7 @@ date: 2017-01-05
 tags: ["example"]
 <!-- icon: fas fa-tools -->
 description: >
-  See your project in action!
+  Under construction
 ---
 
 {{% pageinfo %}}

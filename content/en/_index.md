@@ -3,13 +3,20 @@ title: ""
 linkTitle: ""
 type: "docs"
 tags: ["intro"]
+hide_feedback: true
 menu:
   main:
     weight: 1
 
 cascade:
 - _target:
-    path: "/blog/**"
+    path: "/mlblog/**"
+  type: "blog"
+  # set to false to include a blog section in the section nav along with docs
+  toc_root: true
+  no_list: false
+- _target:
+    path: "/runningblog/**"
   type: "blog"
   # set to false to include a blog section in the section nav along with docs
   toc_root: true
@@ -30,7 +37,7 @@ cascade:
 
 
 
-{{< imgproc featured-background.png Fit "1200x200">}}
+{{< imgproc homepage-banner.png Fit "1200x200">}}
 {{< /imgproc >}}
 
 
