@@ -12,11 +12,7 @@ cascade:
 - type: "blog"
   toc_root: true
   _target:
-    path: "/mlblog/**"
-- type: "blog"
-  toc_root: true
-  _target:
-    path: "/runningblog/**"
+    path: "/blog/**"
 - type: "docs"
   _target:
     path: "/**"
